@@ -5,5 +5,5 @@ let g:qs_max_chars=150
 
 augroup qs_colors
   highlight QuickScopePrimary gui=underline,bold cterm=underline,bold
-  highlight QuickScopeSecondar gui=underline,bold cterm=underline,bold
+  highlight QuickScopeSecondary gui=underline,bold cterm=underline,bold
 augroup END
