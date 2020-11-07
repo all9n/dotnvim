@@ -44,6 +44,7 @@ source $HOME/.config/nvim/plug-config/vim-airline.vim
 source $HOME/.config/nvim/plug-config/vim-closetag.vim
 " source $HOME/.config/nvim/plug-config/vim-colors-xcode.vim
 source $HOME/.config/nvim/plug-config/vim-easymotion.vim
+source $HOME/.config/nvim/plug-config/vim-expand-region.vim
 " source $HOME/.config/nvim/plug-config/vim-highlightedyank.vim
 source $HOME/.config/nvim/plug-config/vim-lion.vim
 source $HOME/.config/nvim/plug-config/vim-rooter.vim

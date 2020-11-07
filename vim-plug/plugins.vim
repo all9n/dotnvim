@@ -21,6 +21,7 @@ call plug#begin()
   " Plug 'suy/vim-context-commentstring'
   Plug 'easymotion/vim-easymotion'
   Plug 'houtsnip/vim-emacscommandline'
+  Plug 'terryma/vim-expand-region'
   Plug 'tommcdo/vim-lion'
   " Plug 'machakann/vim-highlightedyank'
   Plug 'tpope/vim-repeat'
