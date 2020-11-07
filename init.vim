@@ -1,7 +1,8 @@
 " all9n's NeoVim config
 " Oct 28, 2020
 
-"-------------------------------------------------------------------------------
+" XXX: skybison works, but laggy; how to get into ctrl-f mode?
+" XXX: quickscope highlight on keypress? conflict with clever-f
 
 filetype plugin indent on
 syntax on
