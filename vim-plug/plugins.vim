@@ -1,6 +1,7 @@
 call plug#begin()
 
   Plug 'jiangmiao/auto-pairs'
+  Plug 'rhysd/clever-f.vim'
   Plug 'metakirby5/codi.vim'
   " Plug 'mariappan/dragvisuals.vim'
   Plug 'junegunn/fzf'

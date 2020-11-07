@@ -32,6 +32,7 @@ source $HOME/.config/nvim/vim-plug/plugins.vim
 
 " config added plugins
 source $HOME/.config/nvim/plug-config/auto-pairs.vim
+source $HOME/.config/nvim/plug-config/clever-f.vim
 source $HOME/.config/nvim/plug-config/codi.vim
 source $HOME/.config/nvim/plug-config/fzf.vim
 source $HOME/.config/nvim/plug-config/git-gutter.vim
