@@ -19,6 +19,7 @@ call plug#begin()
   " Plug 'arzg/vim-colors-xcode'
   " Plug 'tpope/vim-commentary'
   " Plug 'suy/vim-context-commentstring'
+  Plug 'romainl/vim-cool'
   Plug 'easymotion/vim-easymotion'
   Plug 'houtsnip/vim-emacscommandline'
   Plug 'terryma/vim-expand-region'
