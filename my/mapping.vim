@@ -1,5 +1,7 @@
 " mappings
-" some are taken from https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/mappings.rc.vim
+" credits:
+" https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/mappings.rc.vim
+" https://github.com/ChristianChiarulli/nvim
 
 let mapleader = " "
 let maplocalleader = "\\"
@@ -26,3 +28,6 @@ xnoremap ar  a]
 onoremap ir  i
 xnoremap ir  i]
 
+" TAB in normal mode will move to text buffer; SHIFT-TAB will go back
+nnoremap <silent> <TAB> :bnext<CR>
+nnoremap <silent> <S-TAB> :bprevious<CR>
