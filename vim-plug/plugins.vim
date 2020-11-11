@@ -7,6 +7,7 @@ call plug#begin()
   Plug 'junegunn/fzf'
   Plug 'junegunn/fzf.vim'
   Plug 'airblade/vim-gitgutter'
+  Plug 'mcchrish/nnn.vim'
   Plug 'haishanh/night-owl.vim'
   Plug 'unblevable/quick-scope'
   Plug 'paradigm/SkyBison'

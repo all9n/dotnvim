@@ -37,6 +37,7 @@ source $HOME/.config/nvim/plug-config/codi.vim
 source $HOME/.config/nvim/plug-config/fzf.vim
 source $HOME/.config/nvim/plug-config/git-gutter.vim
 source $HOME/.config/nvim/plug-config/night-owl.vim
+source $HOME/.config/nvim/plug-config/nnn.vim
 source $HOME/.config/nvim/plug-config/quickscope.vim
 source $HOME/.config/nvim/plug-config/skybison.vim
 source $HOME/.config/nvim/plug-config/tcomment.vim
