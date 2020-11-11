@@ -3,34 +3,16 @@
 
 " XXX: skybison works, but laggy; how to get into ctrl-f mode?
 
-filetype plugin indent on
-syntax on
-set breakindent
-set clipboard=unnamedplus
-set cursorline
-set encoding=utf-8
-set expandtab
-set hidden
-set ignorecase smartcase
-set linebreak
-set list
-set listchars=tab:>-,trail:+
-set mouse=n " mouse in normal mode
-set number relativenumber
-set shiftwidth=2
-set splitbelow splitright
-set tabstop=2
-set wrap
-
-" basic mapping
+"" basics
+source $HOME/.config/nvim/my/setting.vim
 source $HOME/.config/nvim/my/mapping.vim
 source $HOME/.config/nvim/my/capitalize.vim
 source $HOME/.config/nvim/my/tabs.vim
 
-" add plugs
+"" add plugs
 source $HOME/.config/nvim/vim-plug/plugins.vim
 
-" config added plugins
+"" config added plugins
 source $HOME/.config/nvim/plug-config/auto-pairs.vim
 " source $HOME/.config/nvim/plug-config/clever-f.vim
 source $HOME/.config/nvim/plug-config/codi.vim

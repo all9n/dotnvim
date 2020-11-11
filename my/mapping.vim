@@ -45,6 +45,12 @@ xnoremap <C-j> :m'>+<CR>gv=gv
 xnoremap <C-k> :m-2<CR>gv=gv
 noremap %% <C-R>=expand("%:h")."/"<CR>
 
+" resize window
+nnoremap <Up> :resize +2<cr>
+nnoremap <Down> :resize -2<cr>
+nnoremap <Left> :vertical resize +2<cr>
+nnoremap <Right> :vertical resize +2<cr>
+
 " Visually select the text that was most recently edited/pasted.
 " Note: gv selects previously selected area.
 nmap gV `[v`]
