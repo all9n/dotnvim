@@ -2,7 +2,6 @@
 " Oct 28, 2020
 
 " XXX: skybison works, but laggy; how to get into ctrl-f mode?
-" XXX: quickscope highlight on keypress? conflict with clever-f
 
 filetype plugin indent on
 syntax on
@@ -33,7 +32,7 @@ source $HOME/.config/nvim/vim-plug/plugins.vim
 
 " config added plugins
 source $HOME/.config/nvim/plug-config/auto-pairs.vim
-source $HOME/.config/nvim/plug-config/clever-f.vim
+" source $HOME/.config/nvim/plug-config/clever-f.vim
 source $HOME/.config/nvim/plug-config/codi.vim
 source $HOME/.config/nvim/plug-config/fzf.vim
 source $HOME/.config/nvim/plug-config/git-gutter.vim
